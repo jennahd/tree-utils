@@ -6,7 +6,7 @@ Date: 221017
 
 This script performs basic formatting of newick format trees and prints them as
 a pdf. If you have any defined labels in a mapping file it will colour those branches,
-and it will root by a given output.
+and it will root by a given outgroup.
 
 """
 #Modules
