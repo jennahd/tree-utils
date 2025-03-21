@@ -4,7 +4,7 @@
 Author: Jennah Dharamshi
 Date: 220130
 
-This script takes is modified from jennahd/HGT_trees version for removing short sequences from a multiple sequence alignment.
+This script removes short sequences from a multiple sequence alignment.
 """
 
 __author__ = 'djennah'
